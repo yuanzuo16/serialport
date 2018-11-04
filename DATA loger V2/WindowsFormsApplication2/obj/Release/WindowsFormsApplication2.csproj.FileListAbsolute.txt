@@ -1,0 +1,24 @@
+C:\Users\cherry\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+C:\Users\cherry\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\cherry\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\cherry\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\cherry\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\cherry\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\cherry\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Users\cherry\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+C:\Users\cherry\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\cherry\Documents\Visual Studio 2013\Projects\DATA loger V2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+C:\Users\cherry\Documents\Visual Studio 2013\Projects\DATA loger V2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Users\cherry\Documents\Visual Studio 2013\Projects\DATA loger V2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+C:\Users\cherry\Documents\Visual Studio 2013\Projects\DATA loger V2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\cherry\Documents\Visual Studio 2013\Projects\DATA loger V2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\cherry\Documents\Visual Studio 2013\Projects\DATA loger V2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\cherry\Documents\Visual Studio 2013\Projects\DATA loger V2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\cherry\Documents\Visual Studio 2013\Projects\DATA loger V2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\cherry\Documents\Visual Studio 2013\Projects\DATA loger V2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\cherry\Desktop\DATA loger V2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+C:\Users\cherry\Desktop\DATA loger V2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Users\cherry\Desktop\DATA loger V2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+C:\Users\Ruihan\Desktop\PRJ\DATA loger V2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+C:\Users\Ruihan\Desktop\PRJ\DATA loger V2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Users\Ruihan\Desktop\PRJ\DATA loger V2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb

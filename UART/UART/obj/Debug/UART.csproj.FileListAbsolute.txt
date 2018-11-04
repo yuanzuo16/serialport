@@ -1,0 +1,9 @@
+C:\Users\Ruihan\Desktop\PRJ\UART\UART\bin\Debug\UART.exe.config
+C:\Users\Ruihan\Desktop\PRJ\UART\UART\bin\Debug\UART.exe
+C:\Users\Ruihan\Desktop\PRJ\UART\UART\bin\Debug\UART.pdb
+C:\Users\Ruihan\Desktop\PRJ\UART\UART\obj\Debug\UART.csprojResolveAssemblyReference.cache
+C:\Users\Ruihan\Desktop\PRJ\UART\UART\obj\Debug\UART.Properties.Resources.resources
+C:\Users\Ruihan\Desktop\PRJ\UART\UART\obj\Debug\UART.csproj.GenerateResource.Cache
+C:\Users\Ruihan\Desktop\PRJ\UART\UART\obj\Debug\UART.exe
+C:\Users\Ruihan\Desktop\PRJ\UART\UART\obj\Debug\UART.pdb
+C:\Users\Ruihan\Desktop\PRJ\UART\UART\obj\Debug\UART.SerialPortTool.resources
